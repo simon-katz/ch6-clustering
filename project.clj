@@ -3,7 +3,7 @@
   :url "https://github.com/clojuredatascience/ch6-clustering"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.6.0"]
+  :dependencies [[org.clojure/clojure "1.10.0"]
                  [clojure-opennlp "0.3.3"]
                  [org.apache.mahout/mahout-core "0.9" :exclusions [org.apache.hadoop/hadoop-core]]
                  [org.apache.mahout/mahout-integration "0.9"]
